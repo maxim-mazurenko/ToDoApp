@@ -1,0 +1,30 @@
+.todo {
+  margin: 0 auto;
+  margin-top: 25px;
+  padding: 10px 20px;
+  max-width: 400px;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+}
+
+li {
+  list-style-type: none;
+  font-weight: 300;
+  font-size: 22px;
+  margin-left: 35px;
+  text-align: left;
+  cursor: pointer;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.todo__item {
+  margin-top: 5px;
+
+  display: flex;
+  align-items: center;
+}
+
+svg {
+  position: absolute;
+}
