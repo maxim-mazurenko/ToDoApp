@@ -1,2 +1,2 @@
-Приложение Лист задач на React.
-Ознакомится можно по ссылке http://j0599972.myjino.ru/
+Приложение Лист задач на React.  
+Ознакомится можно по ссылке: https://maxim-mazurenko.github.io/view-projects/to-do/
